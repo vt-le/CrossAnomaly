@@ -8,6 +8,9 @@ This is the code for **[Reconstruction-Guided Cross-Modal Learning for Video Ano
 
 > **ASTNet**: See [Attention-based Residual Autoencoder for Video Anomaly Detection](https://vt-le.github.io/astnet/).
 
+## Updates
+* We have released the code and model checkpoints for **CrossAnomaly**.
+
 ## Setup
 The code can be run under any environment with Python 3.7 and above.
 (It may run with lower versions, but we have not tested it).
@@ -39,9 +42,9 @@ Please first download the pre-trained model
 
 | Dataset | Pretrained Model                                                                                  |
 |--|---------------------------------------------------------------------------------------|
-| UCSD Ped2 | [![Google drive](https://badgen.net/static/Link/Ped2/blue?icon=chrome)](https://drive.google.com) |
-| CUHK Avenue | [![Google drive](https://badgen.net/badge/Link/Avenue/blue?icon=chrome)](https://drive.google.com) |
-| ShanghaiTech | [![Google drive](https://badgen.net/badge/Link/ShanghaiTech/blue?icon=chrome)](https://drive.google.com) |
+| UCSD Ped2 | [![Google drive](https://badgen.net/static/Link/Ped2/blue?icon=chrome)](https://drive.google.com/file/d/1f9BSpMr3Gx0Gduugb_jScBBSffH93u7k/view?usp=sharing) |
+| CUHK Avenue | [![Google drive](https://badgen.net/badge/Link/Avenue/blue?icon=chrome)](https://drive.google.com/file/d/13zOzOLzhwU4dxEEomUui6o0Nyo_DE--v/view?usp=sharing) |
+| ShanghaiTech | [![Google drive](https://badgen.net/badge/Link/ShanghaiTech/blue?icon=chrome)](https://drive.google.com/file/d/13zOzOLzhwU4dxEEomUui6o0Nyo_DE--v/view?usp=sharing) |
 
 To evaluate a pretrained `CrossAnomaly` on a dataset, run:
 
